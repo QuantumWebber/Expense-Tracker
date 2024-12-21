@@ -1,2 +1,2 @@
 # Expense Tracker
- Simple Expense Tracker use Js functionality main Event Manipulation and Doms 
+ Simple Expense Tracker use Js functionality mainly Event Manipulation and Doms 
